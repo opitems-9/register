@@ -1,0 +1,11 @@
+{
+  "subdomain": "myserver",
+  "domain": "creepers.sbs",
+  "owner": {
+    "repo": "https://github.com/YOUR_USERNAME/YOUR_FORKED_REPO",
+    "email": "your-email@example.com"
+  },
+  "record": {
+    "CNAME": "your-server.tcpshield.com."
+  }
+}
