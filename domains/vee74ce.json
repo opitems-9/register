@@ -1,11 +1,11 @@
 {
-  "subdomain": "myserver",
+  "subdomain": "vee74ce",
   "domain": "creepers.sbs",
   "owner": {
-    "repo": "https://github.com/YOUR_USERNAME/YOUR_FORKED_REPO",
-    "email": "your-email@example.com"
+    "repo": "https://github.com/opitems-9/register",
+    "email": "opitems@gmail.com"
   },
   "record": {
-    "CNAME": "your-server.tcpshield.com."
+    "CNAME": "b261301c6f87c7d60d829d587a07b9a8.ipv4.tcpshield.com"
   }
 }
